@@ -1,1 +1,2 @@
 # conflictresolution
+example2
